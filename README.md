@@ -1,2 +1,4 @@
 # PersonalPWA
-This is a progressive web app can be access by URL have ability to install on mobile home screen and work offline. It can install on android or iOS devices.  
+This is a progressive web app can be access by URL( https://mohsin-9a435.firebaseapp.com/) in borwser.
+This PWA have ability to install on mobile home screen and work offline. 
+This app can install on Android or iOS devices.  
